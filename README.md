@@ -1,5 +1,5 @@
 # What's this?
-## Firs chapter
+## First chapter
 My first repository
 This is only e test page.
 ## Second chapter
